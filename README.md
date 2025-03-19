@@ -9,7 +9,7 @@ Neste momento, estou cursando o curso de Análise e Desenvolvimento de Sistemas 
 # Infraestrutura de Tecnologia
 
 ### Front-End
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 ### Back-End
 ![Node](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge)
