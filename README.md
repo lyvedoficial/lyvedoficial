@@ -1,3 +1,7 @@
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&weight=600&size=30&duration=4000&pause=1000&color=0000FF&random=true&width=435&lines=Hey%2C+I'm+Mateus+Lins)
+
+##
+
 # Sobre mim:
 Neste momento, estou cursando o 3 périodo do curso de Análise e Desenvolvimento de Sistemas na Uninassau.<br> Durante o curso, venho utilizando várias linguagens de programação, incluindo JavaScript, Java, linguagem de banco de dados como MySQL e estou aprendendo estruturas back-end usando Node.js e Angular.js(Front-End).
 
