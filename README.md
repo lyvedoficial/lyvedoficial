@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&weight=600&size=30&duration=4000&pause=1000&color=0000FF&random=true&width=435&lines=Hey%2C+I'm+Mateus+Lins)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&weight=600&size=30&duration=4000&pause=1000&color=FFFFFF&random=true&width=435&lines=Hey%2C+I'm+Mateus+Lins)
 
 ##
 
