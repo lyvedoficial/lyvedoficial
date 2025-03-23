@@ -18,7 +18,7 @@ Neste momento, estou cursando o 3 périodo do curso de Análise e Desenvolviment
   <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mateus-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Mateus-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-plain.svg">
+  <img align="center" alt="Mateus-Angular" height="30" width="30" src="https://avatars.githubusercontent.com/u/139426?s=200&v=4">
 </div>
 
 ### IDE
