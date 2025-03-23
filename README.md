@@ -22,7 +22,7 @@ Neste momento, estou cursando o 3 périodo do curso de Análise e Desenvolviment
 </div>
 
 ### IDE
-<img align="center" alt="Mateus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain.svg">
+<img align="center" alt="Mateus-Ts" height="30" width="30" src="https://carleton.ca/scs/wp-content/uploads/vscode-1.png">
 
 ### Sistema Operacional
 ![Windows](https://img.shields.io/badge/Windows-017AD7?logo=windows&logoColor=white&style=for-the-badge)
