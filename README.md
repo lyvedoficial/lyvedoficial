@@ -2,15 +2,15 @@
 
 ##
 
-# Sobre mim:
-Neste momento, estou cursando o 3 périodo do curso de Análise e Desenvolvimento de Sistemas na Uninassau.<br> Durante o curso, venho utilizando linguagens de programação como JavaScript, Java, estudando linguagem de banco de dados como SQL e estou aprendendo estruturas back-end usando Node.js, Typescript e Angular.js(Front-End).
+# About me:
+At the moment, I am studying the 3rd period of the Systems Analysis and Development course at Uninassau.<br> During the course, I have been using programming languages ​​such as JavaScript, Java, studying database languages ​​such as SQL and I am learning back-end structures using Node.js, Typescript and Angular.js (Front-End).
 
 
-## 🌐 Sociais :
+## 🌐 Social :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lyvedoficial/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-lins-chagas-954540344/) 
 
-<h2> 🛠 &nbsp;Linguagens de Programação</h2>
+<h2> 🛠 &nbsp; Programming Language</h2>
 
 <div style="display: flex"><br>
   <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,7 +25,7 @@ Neste momento, estou cursando o 3 périodo do curso de Análise e Desenvolviment
 ### IDE
 <img align="center" alt="Mateus-Ts" height="30" width="30" src="https://user-images.githubusercontent.com/68742481/127754447-c1564795-6968-48df-9555-6fcf0392266e.png">
 
-### Sistema Operacional
+### Operating System
 <img align="center" alt="Mateus-Ts" height="30" width="30" src="https://i.ibb.co/5KpSCNv/win11.png">
 
 
