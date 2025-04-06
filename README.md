@@ -3,7 +3,7 @@
 ##
 
 # About me:
-At the moment, I am studying the 3rd period of the Systems Analysis and Development course at Uninassau.<br> During the course, I have been using programming languages ​​such as JavaScript, Java, studying database languages ​​such as SQL and I am learning back-end structures using Node.js, Typescript and Angular.js (Front-End).
+At the moment, I am studying the 3rd period of the Systems Analysis and Development course at Uninassau.<br> During the course, I have been using programming languages ​​such as JavaScript, Java, studying database languages ​​such as SQL and I am learning back-end structures using Node.js, Typescript, Angular.js and React.
 
 
 ## 🌐 Social :
