@@ -12,7 +12,7 @@ At the moment, I am studying the 3rd period of the Systems Analysis and Developm
 
 <h2> 🛠 &nbsp; Tech Stack </h2>
 
-<div style="display: flex"><br>
+<div style="display: flex">
   <h4> Programming Language </h4>
   <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mateus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
