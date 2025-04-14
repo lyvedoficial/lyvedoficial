@@ -25,14 +25,13 @@ At the moment, I am studying the 3rd period of the Systems Analysis and Developm
 <h4> Front-End </h4>
 
   <img align="center" alt="Mateus-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
-  <img align="center" alt="Mateus-Ionic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/ionic/ionic-original.svg">
 </div>
 
 ### IDE
-<img align="center" alt="Mateus-Ts" height="30" width="30" src="https://user-images.githubusercontent.com/68742481/127754447-c1564795-6968-48df-9555-6fcf0392266e.png">
+<img align="center" alt="Mateus-VScode" height="30" width="30" src="https://user-images.githubusercontent.com/68742481/127754447-c1564795-6968-48df-9555-6fcf0392266e.png">
 
 ### Operating System
-<img align="center" alt="Mateus-Ts" height="30" width="30" src="https://i.ibb.co/5KpSCNv/win11.png">
+<img align="center" alt="Mateus-Windows" height="30" width="30" src="https://i.ibb.co/5KpSCNv/win11.png">
 
 
 
