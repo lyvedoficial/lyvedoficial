@@ -28,7 +28,7 @@ At the moment, I am studying the 3rd period of the Systems Analysis and Developm
 </div>
 
 ### IDE
-<img align="center" alt="Mateus-VScode" height="30" width="30" src="https://user-images.githubusercontent.com/68742481/127754447-c1564795-6968-48df-9555-6fcf0392266e.png">
+<img align="center" alt="Mateus-VScode" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vscode/vscode-original.svg">
 
 ### Operating System
 <img align="center" alt="Mateus-Windows" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/windows11/windows11-original.svg">
